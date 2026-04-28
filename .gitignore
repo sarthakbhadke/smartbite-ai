@@ -1,0 +1,11 @@
+# Dataset — too large for GitHub (6GB)
+data/yelp_academic_dataset_review.json
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
