@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 Live Demo
-🔗 **[Click here to try SmartBite AI](YOUR_STREAMLIT_URL)**
+🔗 **[Click here to try SmartBite AI](https://smartbite-ai-aobnkthuubrbb9lx8amdxx.streamlit.app/)**
 
 ---
 
